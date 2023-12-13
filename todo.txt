@@ -1,0 +1,11 @@
+--Features--
+MVP:
+Circular Canvas
+Rotating Canvas
+Undo Button
+Redo Button
+Change Stroke Shape
+
+Nice to Have:
+Line Smoothing Scaler (like in procreate)
+Fill Canvas Color
